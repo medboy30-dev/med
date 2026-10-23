@@ -1,0 +1,6 @@
+{
+  "name": "Mind Rush",
+  "description": "Think Fast. Think Smart. A high-performance commercial brain training game with logic, memory, observation, math, and pattern puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
